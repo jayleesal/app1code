@@ -1,1 +1,2 @@
 this is our first java script
+This example writes the value your_email@example.com to the configuration name user.email. It uses the --global flag so this value is set for the current operating system user.
